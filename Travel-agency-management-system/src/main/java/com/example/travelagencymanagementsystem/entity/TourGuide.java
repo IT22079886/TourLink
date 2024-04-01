@@ -1,5 +1,4 @@
 package com.example.travelagencymanagementsystem.entity;
 
-public class Tourist {
-
+public class TourGuide {
 }
